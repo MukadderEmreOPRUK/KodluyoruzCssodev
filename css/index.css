@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1-title{
+    text-align: center;
+}
+.menu{
+    height: 60px;
+    background-color: black;
+}
+.li-st-none{
+    list-style: none;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.li-st-none li{
+    display: inline-block;
+    padding: 20px;    
+}
+.product{
+    width: 50%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.product-p{
+    font-size: 20px;
+}
+/**************PRODUCT CSS**************/
+#h-30{
+    height: 30px;
+}
+.product-ph-box{
+    float: left;
+    margin-right: 24%;
+}
+/**************İNFO CSS**************/
+.info-title{
+    text-align: center;
+    text-transform: uppercase;
+}
